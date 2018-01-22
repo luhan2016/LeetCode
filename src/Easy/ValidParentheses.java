@@ -1,8 +1,8 @@
-package ValidParentheses;
+package Easy;
 
 import java.util.Stack;
 
-class Solution {
+class ValidParentheses {
     public boolean isValid(String s) {
         Stack<Character> stack = new Stack<Character>();
         for(char c: s.toCharArray()){
