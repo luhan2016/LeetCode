@@ -1,4 +1,4 @@
-package Easy;
+package EasyPart1;
 
 public class MySqrt {
 	public static int mySqrt(int x) {

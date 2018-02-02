@@ -1,4 +1,4 @@
-package Easy;
+package EasyPart1;
 import java.io.*;
 import java.util.*;
 

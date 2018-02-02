@@ -1,4 +1,4 @@
-package Easy;
+package EasyPart1;
 
 public class PlusOne {
     public static int[] plusOne(int[] digits) {

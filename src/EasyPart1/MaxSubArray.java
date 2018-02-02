@@ -1,4 +1,4 @@
-package Easy;
+package EasyPart1;
 
 public class MaxSubArray {
 	public static int maxSubArray(int []nums) {
