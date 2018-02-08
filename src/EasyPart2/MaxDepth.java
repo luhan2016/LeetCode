@@ -17,5 +17,4 @@ public class MaxDepth {
 		
 		System.out.println(deep.maxDepth(root));
 	}
-	
 }
