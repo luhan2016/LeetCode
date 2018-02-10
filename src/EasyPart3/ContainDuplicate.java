@@ -1,3 +1,4 @@
+package EasyPart3;
 import java.util.Arrays;
 
 public class ContainDuplicate {

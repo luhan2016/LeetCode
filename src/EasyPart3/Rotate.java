@@ -1,3 +1,4 @@
+package EasyPart3;
 
 public class Rotate {
     public void rotate(int[] nums, int k) {
