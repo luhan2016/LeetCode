@@ -1,3 +1,4 @@
+package EasyPart3;
 
 public class FindMaxConsecutiveOnes {
     public int findMaxConsecutiveOnes(int[] nums) {
